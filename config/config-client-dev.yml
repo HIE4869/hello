@@ -1,4 +1,4 @@
-server :
-  port : 8762
-foo : HIE
+servre:
+  port: 8762
+foo: zhangsan  
 
